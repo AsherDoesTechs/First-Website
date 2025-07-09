@@ -1,0 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    padding-bottom: 20px;
+}
+section{
+    margin: 100px;
+}
